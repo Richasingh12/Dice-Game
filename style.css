@@ -1,0 +1,57 @@
+body {
+    background-color: hsl(0, 4%, 5%);
+  }
+  h1 {
+    margin-left: 420px;
+    margin-top: 40px;
+    color:plum;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 3rem;
+  }
+  
+  h2{
+    margin-left: 300px;
+    margin-top: 50px;
+    color: plum;
+    font-family: cursive;
+    display: inline-flex;
+    font-style:italic;
+    font-size: 2rem;
+  }
+  .john {
+    margin-right: 100px;
+    border-left-width: 30px;
+    padding-left: 50px;
+    font-size: 2rem;
+  }
+  img {
+    margin-left: 200px;
+    margin-top: 30px;
+  }
+  #p1 {
+    margin-left: 220px;
+  }
+  #p2 {
+    margin-left: 175px;
+  }
+  button {
+    color: black;
+    background-color: slateblue;
+    padding: 4px 14px;
+    border: 2px solid white;
+    border-radius: 10px;
+    font-size: 15px;
+    cursor: pointer;
+    font-family: cursive;
+    width: 100px;
+    height: 30px;
+    margin-left: 42%;
+    margin-top: 5%;
+    border-radius: 20px;
+    margin-bottom: 20px;
+  }
+  button:hover {
+    background-color:black;
+    color: palevioletred;
+  }
